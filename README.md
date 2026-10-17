@@ -82,28 +82,6 @@ The project follows a standard machine learning pipeline:
 
 ---
 
-## How to Run
-
-```bash
-git clone <your-repo>
-cd Supervised_Learning_Model
-
-python -m venv .venv
-source .venv/bin/activate
-
-pip install -r requirements.txt
-```
-
-Then open:
-
-```bash
-ml_credito.ipynb
-```
-
-Run all cells using VS Code or Jupyter Notebook.
-
----
-
 ## Author
 
 **Abilio Trindade Souzart**
